@@ -33,7 +33,7 @@ CreatorShares is a decentralized platform built with Solidity and Next.js that e
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/creator-shares.git
+
 cd creator-shares
 
 # Install dependencies
